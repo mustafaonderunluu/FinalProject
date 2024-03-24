@@ -15,6 +15,9 @@ Proje, aşağıdaki bileşenleri içermektedir:
 
 
 Entities: Bu klasör, veritabanı tablolarını temsil eden varlık sınıflarını içerir.
+
 DataAccess: Veritabanı işlemlerinin gerçekleştirildiği sınıfları içerir.
+
 Business: İş mantığı işlemlerinin gerçekleştirildiği sınıfları içerir.
+
 ConsoleUI: Kullanıcı arayüzünün sağlandığı konsol uygulamasını içerir.
